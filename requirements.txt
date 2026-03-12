@@ -1,5 +1,5 @@
 streamlit
-tflite-runtime
+tensorflow
 numpy
 pillow
 streamlit-drawable-canvas
