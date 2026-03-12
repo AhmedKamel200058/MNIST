@@ -72,7 +72,7 @@ The final layer outputs probabilities for digits **0–9**.
 mnist-digit-recognizer
 │
 ├── app.py
-├── model.h5
+├── model.keras
 ├── requirements.txt
 ├── README.md
 └── images
@@ -134,13 +134,9 @@ Confidence: 98%
 
 # Demo
 
-You can add a GIF demo here.
-
 ```
 ![MNIST Demo](images/demo.gif)
 ```
-
-
 
 
 ---
