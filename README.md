@@ -13,7 +13,7 @@ The project demonstrates the full Machine Learning workflow including **model tr
 Streamlit App:
 
 ```
-https://your-streamlit-app-link.streamlit.app
+https://mnist-app-recognizer.streamlit.app/
 ```
 
 ---
