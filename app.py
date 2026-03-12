@@ -17,7 +17,7 @@ st.write("Draw a digit (0-9) and let the AI model predict it.")
 # load model
 @st.cache_resource
 def load_model():
-    return tf.keras.models.load_model("model.keras", compile=False)
+    return tf.keras.models.load_model("best_model.tflite", compile=False)
 
 model = load_model()
 
